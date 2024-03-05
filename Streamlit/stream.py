@@ -1,4 +1,4 @@
-pip install numpy pandas scikit-learn matplotlib seaborn jupyter streamlit babel
+!pip install numpy pandas scikit-learn matplotlib seaborn jupyter streamlit babel
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
